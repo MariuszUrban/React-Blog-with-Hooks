@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MariuszUrban/React-Blog-with-Hooks.git/static/css/main.8bdbd7c0.chunk.css",
+    "main.js": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/main.125da2e9.chunk.js",
+    "main.js.map": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/main.125da2e9.chunk.js.map",
+    "runtime-main.js": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/runtime-main.39b5dc86.js",
+    "runtime-main.js.map": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/runtime-main.39b5dc86.js.map",
+    "static/js/2.2e6bedd2.chunk.js": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/2.2e6bedd2.chunk.js",
+    "static/js/2.2e6bedd2.chunk.js.map": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/2.2e6bedd2.chunk.js.map",
+    "static/js/3.0188bc22.chunk.js": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/3.0188bc22.chunk.js",
+    "static/js/3.0188bc22.chunk.js.map": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/3.0188bc22.chunk.js.map",
+    "index.html": "/MariuszUrban/React-Blog-with-Hooks.git/index.html",
+    "static/css/main.8bdbd7c0.chunk.css.map": "/MariuszUrban/React-Blog-with-Hooks.git/static/css/main.8bdbd7c0.chunk.css.map",
+    "static/js/2.2e6bedd2.chunk.js.LICENSE.txt": "/MariuszUrban/React-Blog-with-Hooks.git/static/js/2.2e6bedd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b5dc86.js",
+    "static/js/2.2e6bedd2.chunk.js",
+    "static/css/main.8bdbd7c0.chunk.css",
+    "static/js/main.125da2e9.chunk.js"
+  ]
+}

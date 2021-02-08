@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-blog-app"]=this["webpackJsonpreact-blog-app"]||[]).push([[3],{68:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return u}));n(0);var c=n(2),s=n(1);function u(){const t=Object(c.f)(),e=Object(c.i)();return Object(s.jsxs)("form",{onSubmit:e=>{e.preventDefault(),t({type:"LOGOUT"})},children:["Logged in as: ",Object(s.jsx)("b",{children:e}),Object(s.jsx)("input",{type:"submit",value:"Logout"})]})}}}]);
+//# sourceMappingURL=3.0188bc22.chunk.js.map
